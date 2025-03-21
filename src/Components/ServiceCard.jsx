@@ -2,7 +2,7 @@ import React from "react";
 
 const ServiceCard = ({ service }) => {
   return (
-    <div className="flex flex-1 flex-col px-16 py-10 border-1 shadow-3xl rounded-[20px] w-full  sm:min-w-[350px] ">
+<div className="flex flex-1 flex-col px-16 py-10 border-1 shadow-3xl rounded-[20px] w-full  sm:min-w-[350px] ">
       <div className="bg-coral-red rounded-full p-2 size-11 flex justify-center items-center" >
         <img src={service.imgURL} alt={service.label} />
       </div>

@@ -6,7 +6,7 @@ const SuperQuality = () => {
   return (
     <section id="superquality" className="max-container flex justify-between items-center max-lg:flex-col gap-10 ">
 
-        <div className="flex  flex-col">
+        <div className="flex  flex-col ">
           <h1 className="text-4xl font-bold font-palanquin capitalize lg:max-w-lg">
             We Provide You <span className="text-coral-red">super Quality</span> Shoes</h1>
 
@@ -26,6 +26,7 @@ const SuperQuality = () => {
           />
           </div>
         </div>
+
         <div>
           <img 
           src={shoe8} alt="" />
