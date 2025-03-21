@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../Components/Button";
-import { shoe4, shoe8 } from "../assets/images";
+import {  shoe8 } from "../assets/images";
 
 const SuperQuality = () => {
   return (
