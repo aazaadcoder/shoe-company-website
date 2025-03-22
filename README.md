@@ -1,6 +1,14 @@
 # E-Commerce Product Landing Page
 
+[Live Demo](https://shoe-company-website.vercel.app/)
+
+
 This project is a modern and responsive e-commerce product landing page built using React.js. It features a sleek design tailored for showcasing products effectively, providing users with an intuitive shopping experience.
+
+## Screenshot
+
+![Product Landing Page](./src/assets/images/landingpage1.png)
+
 
 ## Features
 
@@ -43,6 +51,10 @@ To run this project locally, follow these steps:
    ```
 
    The application will be accessible at `http://localhost:3000`.
+
+## Live Demo
+
+Check out the live demo [here](https://your-live-demo-link.com)
 
 ## Project Structure
 
